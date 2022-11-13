@@ -32,7 +32,7 @@ Please make sure to update tests as appropriate.
 
 1. Clone the repository in your local machine.
 ```
-git clone https://github.com/19IT114/YouTube-Transcript-Summarizer.git
+git clone https://github.com/YashPShah2001/Youtube-Transcript-summarizer.git
 ```
 
 2. To run the API, you need to set up a **Virtual Environment**. Go into *youtube-transcript-summarizer-api* folder, open command prompt and paste the following command.
